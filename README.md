@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumarytc&label=Views&color=blue&style=plastic&style=for-the-badge" alt="praveenkumarytc" /> </p>
 
-# 💫 About Me :               <img align="right" alt="coding" width="100px" height="50" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg"/>    
+# 💫 About Me :               <img align="right" alt="coding" width="100px" height="50" src="https://i.stack.imgur.com/vXYLh.gif"/>    
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building [Flutter Apps](https://flutter.dev/).
 - 🌱 I’m currently learning more about Node.js.
