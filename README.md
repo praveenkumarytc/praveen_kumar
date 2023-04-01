@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Github](https://github.com/praveenkumarytc).
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours on seeing vs code.
+- ⚡ Fun fact: I spend almost half my day gazing into the abyss of VS Code, lost in a world of code and coffee!
 
 
 ## 💻 Tech Stack
