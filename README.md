@@ -51,7 +51,10 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praveenkumarytc)   -->
 <!-- <a href="https://github.com/praveenkumarytc/github-readme-activity-graph"><img alt="praveenkumarytc Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&langs_count=6" /></a> -->
 
-<p align="center" widht="100%"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarytc&layout=compact&langs_count=8&theme=react" alt="praveenkumarytc" /></p><p align="center" &nbsp ><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarytc&show_icons=true&locale=en&theme=tokyonight" alt="praveenkumarytc" /></p>
+<p align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarytc&layout=compact&langs_count=8&theme=react" alt="praveenkumarytc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarytc&show_icons=true&locale=en&theme=tokyonight" alt="praveenkumarytc" />
+</p>
 <!-- <div> span</div> -->
 
 <!-- &nbsp; -->
