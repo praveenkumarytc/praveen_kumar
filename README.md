@@ -52,15 +52,17 @@
 <!-- <a href="https://github.com/praveenkumarytc/github-readme-activity-graph"><img alt="praveenkumarytc Graph" src="https://activity-graph.herokuapp.com/graph?username=rsoni2843&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&langs_count=6" /></a> -->
 
 <p align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarytc&layout=compact&langs_count=8&theme=react" alt="praveenkumarytc" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarytc&show_icons=true&locale=en&theme=tokyonight" alt="praveenkumarytc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarytc&layout=compact&langs_count=8&theme=react" alt="praveenkumarytc" style="width: 49%; margin-right: 2%;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkumarytc&show_icons=true&locale=en&theme=tokyonight" alt="praveenkumarytc" style="width: 49%; margin-left: 2%;"/>
 </p>
+
 <!-- <div> span</div> -->
 
 <!-- &nbsp; -->
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarytc&theme=tokyonight" alt="praveenkumarytc" /></p>
+<div style="width: 100%;"><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarytc&theme=tokyonight" alt="praveenkumarytc" /></p></div>
+
    
 
 
